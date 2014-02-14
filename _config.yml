@@ -1,13 +1,12 @@
 title:        Ali Ghazi
 tagline:      'Software Developer & Designer'
 description:  'Software developer running <a href="ekiper.net" target="_blank">ekiper.net</a>.'
-url:          http://andhyde.com
+url:          http://alimsgh.tk
 version:      1.1.1
 author:
-  name:       ''
-  email:      ''
+  name:       'Ali Ghazi'
+  email:      'ali.msgh@gmail.com'
 markdown:     redcarpet
 permalink:    pretty
 pygments:     true
 paginate:     5
-host: localhost
