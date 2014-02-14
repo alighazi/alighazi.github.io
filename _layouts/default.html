@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+	
+  <body class="theme-base-0d">
+
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1><a href="/"> {{ site.title }}</a></h1>
+        <p class="lead">{{ site.description }}		
+		</p>
+
+        <div class="colophon">
+          <ul class="colophon-links">
+            <li>
+              <a href="/about">About</a>
+            </li>
+			<li>
+			  <a href="/resume">Resume</a>
+            </li>
+			<li>
+			  <a href="/contact">Contact</a>
+            </li>
+          </ul>
+          <p>&copy; 2014. {{ site.author.name }} All rights reserved.</p>
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
