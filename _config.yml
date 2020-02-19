@@ -6,7 +6,7 @@ version:      1.1.1
 author:
   name:       'Ali Ghazi'
   email:      'ali.msgh@gmail.com'
-markdown:     redcarpet
+markdown:     commonmark
 permalink:    pretty
 pygments:     true
 paginate:     5
