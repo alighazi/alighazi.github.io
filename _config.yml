@@ -7,6 +7,6 @@ author:
   name:       'Ali Ghazi'
   email:      'ali.msgh@gmail.com'
 markdown:     commonmark
-  syntax_highlighter: rouge
+highlighter: rouge
 permalink:    pretty
 paginate:     5
